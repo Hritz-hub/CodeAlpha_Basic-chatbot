@@ -1,4 +1,4 @@
-print("🤖 Hello! I'm ChatBot. Type 'bye' to exit.")
+print(" Hello! I'm ChatBot. Type 'bye' to exit.")
 
 while True:
     user_input = input("You: ").lower()
